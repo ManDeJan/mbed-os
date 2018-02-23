@@ -526,7 +526,7 @@
         "detect_code": ["0261"],
         "device_has": ["ANALOGIN", "I2C", "I2CSLAVE", "INTERRUPTIN", "PORTIN", "PORTOUT", "PWMOUT", "RTC", "SERIAL", "SLEEP", "SPI", "SPISLAVE", "STDIO_MESSAGES"],
         "default_lib": "std",
-        "release_versions": ["2"],
+        "release_versions": ["2", "5"],
         "device_name": "MKL27Z64xxx4"
     },
     "KL43Z": {
